@@ -23,6 +23,10 @@
 </p>-->
 
 -----
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+
 <p align='center'>
   <a href='https://github.com/weitanx'>
     <img src='https://img.shields.io/badge/github-wei-211F1F?logo=github&logoColor=white&style=flat-square' />
